@@ -9,5 +9,4 @@
 * Password: Hamza
 
 #### Part 2: Test
-* Output of this command echo "$(jenkins_address)github-webhook/"
 * Create a pull request to this repository https://github.com/Hamz115/ros1_ci.git
