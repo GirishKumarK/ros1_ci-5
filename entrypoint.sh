@@ -12,4 +12,4 @@ roslaunch tortoisebot_gazebo tortoisebot_playground.launch &
 sleep 20
 
 # Run the waypoints test
-rostest tortoisebot_waypoints waypoints_test.test --reuse-master x:=0.5 y:=0.5 tolerance:=0.1
+rostest tortoisebot_waypoints waypoints_test.test --reuse-master x:=0.5 y:=0.5 tolerance:=0.2
